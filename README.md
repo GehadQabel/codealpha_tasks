@@ -22,9 +22,6 @@ Welcome to my Data Analytics Internship Portfolio at CodeAlpha!
 
 **[View Live Dashboard](https://codealphatasks-xnxecytresne6ibvhv2gjj.streamlit.app/)**
 
-### Task 4 — NLP
-Coming soon.
-
 ## Technologies
 Python | Pandas | BeautifulSoup | Matplotlib | Seaborn | Plotly | Streamlit | SciPy
 
