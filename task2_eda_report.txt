@@ -1,0 +1,28 @@
+CODEALPHA - TASK 2: EXPLORATORY DATA ANALYSIS
+
+Dataset: Books to Scrape
+Total Records: 1000
+Missing Values: 0
+Duplicate Records: 0
+
+KEY FINDINGS
+Average Price: GBP 35.07
+Median Price: GBP 35.98
+Average Rating: 2.923 / 5
+Price Skewness: -0.0375
+Price-Rating Correlation: 0.0282
+P-value: 0.3736
+
+HYPOTHESIS TEST
+H0: No linear correlation between price and rating.
+H1: A linear correlation exists.
+Significance Level: 0.05
+
+CONCLUSION
+Fail to reject H0.
+There is insufficient statistical evidence of a
+linear relationship between book price and rating.
+
+LIMITATION
+Books to Scrape is a demonstration website.
+Results should not be generalized to the real book market.
